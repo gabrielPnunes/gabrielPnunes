@@ -1,10 +1,15 @@
 ### oi, eu sou o Gabriel Pereira 
 
 <div>
-  <a href="https://github.com/gabrielPnunes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielPnunes&show_icons=true&theme=midnight-purple&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielPnunes&layout=compact&theme=midnight-purple&langs_count=16"/>
+  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielPnunes&show_icons=true&theme=midnight-purple) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielPnunes&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gabrielPnunes&theme=midnight-purple)](https://git.io/streak-stats)
+
 </div>
+
 
 <div style="display= inline_block"><br>
   <img align="center" alt="Gabs-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
