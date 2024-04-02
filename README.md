@@ -1,10 +1,6 @@
 ### oi, eu sou o Gabriel Pereira 
 
 <div>
-  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielPnunes&show_icons=true&theme=midnight-purple) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielPnunes&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gabrielPnunes&theme=midnight-purple)](https://git.io/streak-stats)
 
