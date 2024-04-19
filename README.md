@@ -1,4 +1,5 @@
 ### oi, eu sou o Gabriel Pereira 
+### Meu objetivo é me tornar um engenheiro de dados 
 
 <div>
 
