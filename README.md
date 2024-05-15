@@ -5,8 +5,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielPnunes&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <div>
-    <img src = https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white target blank>
-    <img src = https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white target blank>
+     <a href="https://www.linkedin.com/in/gabriel-pereira-9983172ba/" target="_blank"><img src = https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white></a>
+    <img src = https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white>
 </div>
 
 #
