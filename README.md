@@ -1,5 +1,5 @@
 ### oi, eu sou o Gabriel Pereira 
-### Meu objetivo é me tornar um ciêntistas de dados 
+### Meu objetivo é me tornar um ciêntista de dados 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gabrielPnunes&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielPnunes&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
