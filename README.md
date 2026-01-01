@@ -1,5 +1,5 @@
 ### oi, eu sou o Gabriel Pereira 
-### Meu objetivo é me tornar um ciêntista de dados 
+### Meu objetivo é me tornar um Engenheiro De Dados
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gabrielPnunes&theme=dracula&hide_border=false)<br/>
 
